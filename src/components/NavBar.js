@@ -98,7 +98,7 @@ const NavBar = () => {
 
         <nav className=' flex items-center justify-center flex-wrap'>
           <motion.a
-            href='https://www.linkedin.com/in/gonzalovolonterio/'
+            href='https://github.com/GonzaloVolonterio/'
             target={'_blank'}
             className=' w-6 mx-3'
             whileHover={{ y: -2 }}
