@@ -59,8 +59,7 @@ const about = () => {
                 Biography
               </h2>
               <p className='my-1 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify  whitespace-normal'>
-                Hello, I'm Gonzalo Volonterio, a Full Stack Developer with more
-                than 3 years of experience in web development and mobile
+                Hello, I'm Gonzalo Volonterio, a Full Stack Developer with 4 years of experience in web development and mobile applications in web development and mobile
                 applications.
               </p>
               <p className='my-1 text-base space-x-2 font-medium md:text-sm sm:text-xs text-justify whitespace-normal'>
